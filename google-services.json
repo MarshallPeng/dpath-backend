@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "855019793013",
+    "firebase_url": "https://dpath-98b76.firebaseio.com",
+    "project_id": "dpath-98b76",
+    "storage_bucket": "dpath-98b76.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:855019793013:android:1cccfb2920b7979b",
+        "android_client_info": {
+          "package_name": "edu.dartmouth.cs.d_path"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "855019793013-v9q71bqhhgloe4bag7e8ccvdap312ao6.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "855019793013-v9q71bqhhgloe4bag7e8ccvdap312ao6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkMQMiwpjwUqyyGB7nPFRBIFsS-hjjsXk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

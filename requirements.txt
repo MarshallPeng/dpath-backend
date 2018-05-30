@@ -1,0 +1,5 @@
+Flask==0.12.2
+Werkzeug<0.13.0,>=0.12.0
+numpy==1.13.1
+scipy==0.19.1
+firebase-admin==2.10.0
